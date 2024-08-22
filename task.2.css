@@ -1,0 +1,144 @@
+*{
+      margin: 0;
+      padding: 0;
+}
+.frist_class{
+      background-image: url(bgc.avif);
+      background-repeat: no-repeat;
+      background-size: cover;
+      height:690px;
+      
+}
+.second_class{
+      text-align: center;
+}
+
+.size{
+      font-weight: bold;
+}
+.dot{
+      position: relative;
+      top: -40px;
+      left: 80px;
+      background-color: orange;
+      border-radius: 100px;
+      height: 50px;
+      width: 50px;
+}
+.first_box{
+      box-shadow:1px 1px 1px 1px;
+      height: 450px;
+      width: 290px;
+      position: relative;
+      left: 80px;
+      border-radius: 20px;
+      background-color: rgb(16, 16, 104);
+      color: azure;
+     
+}
+.letter{
+      position: relative;
+      left: 30px;
+}
+.content{
+      position: relative;
+      top: 50px;
+}
+.try_block{
+      position: absolute;
+      top: 360px;
+      margin:  5px;
+      
+      border: 1px 1px 1px;
+      padding: 10px;
+      background-color: white;
+      color: black;
+      text-align: center;
+      border-radius:20px ;
+}
+.try_block:hover{
+     
+        background-color: rgb(244, 247, 247);
+}
+.box2{
+      position:absolute;
+     left: 600px;
+     top: 180px;
+      height:450px ;
+      width:290px ;
+      color: black;
+      background-color: azure;
+      margin: 6px;
+      border: 2px;
+      box-shadow:1px 1px 1px 1px ;
+      border-radius: 20px;
+}
+.letter2{
+      position: relative;
+      left: 30px;
+}
+.content2{
+      position: relative;
+      top: 50px;
+      left: 35px;
+      font-weight: bolder;
+}
+.text-block{
+      position: absolute;
+      top: 360px;
+      margin:  5px;
+      left: 30px;
+      border: 1px 1px 1px;
+      padding: 10px;
+      background-color: rgb(233, 136, 10);
+      color: black;
+      text-align: center;
+      border-radius:20px ;
+}
+.text-block:hover{
+    
+        background-color: rgb(247, 252, 252);
+      
+}
+.box3{
+      position:absolute;
+left:1100px ;
+      top:180px ;
+      height:450px ;
+      width:290px ;
+      color: black;
+      background-color: azure;
+      margin: 6px;
+      border: 2px;
+      box-shadow:1px 1px 1px 1px ;
+      border-radius: 20px;
+}
+.content3{
+      position: relative;
+      top: 50px;
+      left: 35px;
+      font-weight: bolder;
+}
+.text-block1{
+      position: absolute;
+      top: 360px;
+      margin:  5px;
+      left: 30px;
+      border: 1px 1px 1px;
+      padding: 10px;
+      background-color:rgb(16, 16, 104) ;
+      color: rgb(255, 254, 254);
+      text-align: center;
+      border-radius:20px ;
+}
+.text-block1:hover{
+
+        background-color: rgb(45, 171, 171);
+         
+      }
+.letter3{
+       position: relative;
+       left:20px ;
+}
+
+
